@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.200.75.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746699143748
+  login: 1746699141847
+money: '0'
+last-account-name: _NARUTO4761532_
+logoutlocation:
+  world: 72eff2b2-a062-4933-9036-d43bef984fd7
+  world-name: world
+  x: -497.7745926083384
+  y: 66.0
+  z: -1589.9221131373085
+  yaw: -176.99534606933594
+  pitch: 36.6508674621582

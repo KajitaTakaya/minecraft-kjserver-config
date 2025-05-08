@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.200.75.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746701180506
+  login: 1746700965252
+money: '0'
+last-account-name: Kingofthegod0402
+logoutlocation:
+  world: 72eff2b2-a062-4933-9036-d43bef984fd7
+  world-name: world
+  x: -490.30000001192093
+  y: 66.0
+  z: -1583.6329073605093
+  yaw: 49.084503173828125
+  pitch: 46.061546325683594

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.200.1.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746697502694
+  login: 1746691535693
+money: '0'
+last-account-name: Puttyo_0326
+logoutlocation:
+  world: 72eff2b2-a062-4933-9036-d43bef984fd7
+  world-name: world
+  x: -631.6628428933043
+  y: 66.0
+  z: -1617.821607190797
+  yaw: -68.17222595214844
+  pitch: 21.775278091430664

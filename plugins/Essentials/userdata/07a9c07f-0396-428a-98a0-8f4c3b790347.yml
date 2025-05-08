@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.111
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746614236685
+  login: 1746613441331
+money: '0'
+last-account-name: beibei_1030
+logoutlocation:
+  world: 72eff2b2-a062-4933-9036-d43bef984fd7
+  world-name: world
+  x: -598.5103305796837
+  y: 63.0
+  z: -1564.4301572554248
+  yaw: -22.2001953125
+  pitch: 21.750139236450195
